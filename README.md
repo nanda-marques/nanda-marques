@@ -46,7 +46,7 @@ Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e 
 | :--- | :--- | :--- | :--- |
 | [TempoCerto](https://github.com/nanda-marques/previsao-tempo-projeto) | Aplicação web de previsão do tempo em tempo real com interface responsiva.  | Python, Laravel | [Acesse aqui](https://tempocerto.great-site.net/weather) |
 | [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo do meu TCC | HTML, CSS, JS | [Acesse aqui](https://memoriaviva-org.github.io/website-memoria-viva/) |
-| [Loja Virtual de Tintas Interativa](https://github.com/nanda-marques/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS, MySQL | [Acesse aqui](https://nanda-marques.github.io/nossasCores/) |
+| [Loja Virtual de Tintas Interativa](https://github.com/nanda-marques/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS, MySQL | [Acesse aqui](https://nossascores.netlify.app/) |
 | [Agendamento de Consultas](https://github.com/nanda-marques/agendamento-sus) | Protótipo para uma solução acessível produzida para a matéria de Usabilidade - ETEC | HTML, CSS, JS | [Acesse aqui](https://nanda-marques.github.io/agendamento-sus/) |
 | [Gerenciar Livros](https://github.com/nanda-marques/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, MySQL | 🚧 Projeto Local |
 
