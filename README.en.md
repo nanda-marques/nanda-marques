@@ -43,18 +43,9 @@ Hello! I have a background in **Web Development** from ETEC Albert Einstein and 
 
 ## Featured Projects
 
-| Project | Description | Technologies | Live Demo |
+| Project | Description | Technologies | Demo |
 | :--- | :--- | :--- | :--- |
-| [TempoCerto](https://github.com/nanda-marques/previsao-tempo-projeto) | Real-time weather forecasting web app with a responsive interface. | Python, Laravel | [Try it here](https://tempocerto.great-site.net/weather) |
-| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Institutional website for downloading my ETEC capstone project app | HTML, CSS, JS | [Try it here](https://memoriaviva-org.github.io/website-memoria-viva/) |
-| [Interactive Paint E-commerce](https://github.com/nanda-marques/nossasCores) | Project created for the Web Content Management course | HTML, CSS, JS, MySQL | [Try it here](https://nossascores.netlify.app/) |
-| [Healthcare Appointments](https://github.com/nanda-marques/agendamento-sus) | Prototype for an accessible SUS solution created for the Usability course – ETEC | HTML, CSS, JS | [Try it here](https://nanda-marques.github.io/agendamento-sus/) |
-| [Book Management](https://github.com/nanda-marques/crud-livros-react-node) | CRUD system for book management with dashboard, statistics, and MySQL integration | React, Node.js, MySQL | 🚧 Local Project|
-
----
-
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marxsnanda07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
-
+| [TempoCerto](https://github.com/nanda-marques/previsao-tempo-projeto) | Real-time weather forecasting web application with a responsive interface. | Python, Laravel | [View demo](https://tempocerto.great-site.net/weather) |
+| [Stolen Mobile Phones in the State of São Paulo - 2026](https://github.com/nanda-marques/agendamento-sus) | Interactive analysis of stolen mobile phones in the state of São Paulo (SSP-SP, 2026). Features a dashboard, time series analysis, and map. | Python | [View demo](https://ssp-celulares-subtraidos-2026.streamlit.app/) |
+| [Interactive Paint E-commerce Store](https://github.com/nanda-marques/nossasCores) | Project developed for the Web Content Management course at ETEC Albert Einstein. | HTML, CSS, JavaScript, MySQL | [View demo](https://nossascores.netlify.app/) |
+| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Institutional website providing access to the download of an app developed as part of a final-year project at ETEC Albert Einstein. | HTML, CSS, JavaScript | [View demo](https://memoriaviva-org.github.io/website-memoria-viva/) |
