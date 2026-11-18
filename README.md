@@ -65,7 +65,7 @@
   <tr>
     <td width="50%" valign="top">
       <sub><b>ANÁLISE DE DADOS PÚBLICOS</b></sub>
-      <h3><a href="https://github.com/nanda-marques/ssp-celulares-subtraidos-2026">Celulares Subtraídos | SSP-SP</a></h3>
+      <h3>Celulares Subtraídos | SSP-SP</a></h3>
       <p>Dashboard com dados da Secretaria de Segurança Pública de São Paulo: indicadores, análise temporal e mapa interativo.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Streamlit</code></p>
       <a href="https://github.com/nanda-marques/ssp-celulares-subtraidos-2026">Repositório</a> &nbsp;·&nbsp;
@@ -73,7 +73,7 @@
     </td>
     <td width="50%" valign="top">
       <sub><b>PREVISÃO DE DEMANDA · PROJETO ACADÊMICO</b></sub>
-      <h3><a href="https://github.com/Cosmic-Bubble/projetolavanderia">Projeto Lavanderia</a></h3>
+      <h3>Projeto Lavanderia</a></h3>
       <p>Previsão de demanda e gestão de capacidade, desenvolvidas em equipe para o Instituto Ninho Social na FATEC Sebrae.</p>
       <p><code>Python</code> <code>Estatística</code> <code>Análise de dados</code></p>
       <a href="https://github.com/Cosmic-Bubble/projetolavanderia">Repositório</a> &nbsp;·&nbsp;
@@ -83,14 +83,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>HRTECH · HACKATHON</b></sub>
-      <h3><a href="https://github.com/No-Country-simulation/S06-26-AB-Equipe-27">SkillFocus | App BiT</a></h3>
-      <p>MVP de uma plataforma de empregabilidade inclusiva e diversidade, criado em equipe no Hackathon Wongola / Black in Tech.</p>
+      <sub><b>HRTECH · HACKATHON WONGOLA</b></sub>
+      <h3>SkillFocus | App BiT</a></h3>
+      <p>MVP de uma plataforma de empregabilidade inclusiva e diversidade.</p>
       <p><code>PHP</code> <code>Laravel</code> <code>Python</code> <code>React</code> <code>FastAPI</code> <code>Gemini</code></p>
+      <a href="https://github.com/No-Country-simulation/S06-26-AB-Equipe-27">Repositório</a> &nbsp;
     </td>
     <td width="50%" valign="top">
       <sub><b>3º LUGAR · FATEC INNOVATION CHALLENGE</b></sub>
-      <h3><a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos">Focinho Amigo</a></h3>
+      <h3>Focinho Amigo</a></h3>
       <p>Sistema de gerenciamento e site público para a ONG Focinho Amigo.</p>
       <p><code>TypeScript</code> <code>MySQL</code> <code>Supabase</code></p>
       <a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos">Repositório</a> &nbsp;·&nbsp;
@@ -103,6 +104,26 @@
 <sub>Mais projetos: <a href="https://github.com/nanda-marques/previsao-tempo-projeto">TempoCerto</a> &nbsp;·&nbsp; <a href="https://github.com/nanda-marques/nossasCores">Nossas Cores</a> &nbsp;·&nbsp; <a href="https://github.com/memoriaviva-org/website-memoria-viva">MemóriaViva</a></sub>
 
 ---
+
+<h2>Estudos e Prática</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>FORMAÇÃO COMPLEMENTAR · DIO / TOTVS</b></sub>
+      <h3><a href="https://github.com/nanda-marques/dio-totvs-engenharia-de-dados">Engenharia de Dados e Machine Learning</a></h3>
+      <p>Repositório com atividades, desafios e projetos desenvolvidos durante a formação em Engenharia de Dados e Machine Learning, explorando conceitos e ferramentas da área.</p>
+      <p><code>Python</code> <code>SQL</code> <code>Engenharia de Dados</code> <code>Machine Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>ESTUDOS EM ANDAMENTO · PYTHON</b></sub>
+      <h3><a href="https://github.com/nanda-marques/exercicios-python">Exercícios de Python</a></h3>
+      <p>Repositório de estudos com exercícios, atividades acadêmicas, pequenos projetos e anotações. Abrange lógica de programação, estruturas de dados, orientação a objetos e manipulação de arquivos.</p>
+      <p><code>Python</code> <code>Numpy</code> <code>Pandas</code> <code>Streamlit</code> <code>POO</code> <code>Estruturas de Dados</code></p>
+    </td>
+  </tr>
+</table>
+
 
 ## Formação
 

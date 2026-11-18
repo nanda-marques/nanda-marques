@@ -18,16 +18,16 @@
       <h3>Hi, I'm Fernanda.</h3>
       <p>
         Data Science for Business student at <strong>FATEC Sebrae</strong>
-        and Internet IT Technician graduate from ETEC Albert Einstein.
+        and graduate in Internet Systems Development from ETEC Albert Einstein.
       </p>
       <p>
-        I enjoy learning by doing and building projects that turn data
-        and ideas into useful solutions. I'm currently deepening my studies in
-        <strong>Python, SQL and data analysis</strong>.
+        I enjoy learning through hands-on experience and building projects that turn data
+        and ideas into useful solutions. I'm currently deepening my knowledge of
+        <strong>Python, SQL, and data analysis</strong>.
       </p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nanda-marques&show_icons=true&hide_border=true&theme=transparent&locale=en&custom_title=GitHub%20Activity&title_color=C4A7E7&icon_color=A78BFA&text_color=D8D8E8&rank_icon=github">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=nanda-marques&show_icons=true&hide_border=true&theme=transparent&locale=en&custom_title=GitHub%20Activity&title_color=7652B5&icon_color=7652B5&text_color=3B3B4F&rank_icon=github" alt="GitHub stats"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=nanda-marques&show_icons=true&hide_border=true&theme=transparent&locale=en&custom_title=GitHub%20Activity&title_color=7652B5&icon_color=7652B5&text_color=3B3B4F&rank_icon=github" alt="GitHub statistics"/>
       </picture>
     </td>
   </tr>
@@ -65,17 +65,17 @@
   <tr>
     <td width="50%" valign="top">
       <sub><b>PUBLIC DATA ANALYSIS</b></sub>
-      <h3><a href="https://github.com/nanda-marques/ssp-celulares-subtraidos-2026">Stolen Cell Phones | SSP-SP</a></h3>
-      <p>Dashboard built on public data from the São Paulo Public Security Department: indicators, time series analysis and interactive map.</p>
+      <h3>Stolen Mobile Phones | SSP-SP</a></h3>
+      <p>Dashboard using data from the São Paulo Public Security Department, featuring key indicators, time series analysis, and an interactive map.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Streamlit</code></p>
       <a href="https://github.com/nanda-marques/ssp-celulares-subtraidos-2026">Repository</a> &nbsp;·&nbsp;
-      <a href="https://ssp-celulares-subtraidos-2026.streamlit.app/">Live app</a>
+      <a href="https://ssp-celulares-subtraidos-2026.streamlit.app/">Live App</a>
     </td>
     <td width="50%" valign="top">
       <sub><b>DEMAND FORECASTING · ACADEMIC PROJECT</b></sub>
-      <h3><a href="https://github.com/Cosmic-Bubble/projetolavanderia">Laundry Project</a></h3>
-      <p>Demand forecasting and capacity management, developed as a team for Instituto Ninho Social at FATEC Sebrae.</p>
-      <p><code>Python</code> <code>Statistics</code> <code>Data analysis</code></p>
+      <h3>Laundry Project</a></h3>
+      <p>Demand forecasting and capacity management solution developed as a team for Instituto Ninho Social at FATEC Sebrae.</p>
+      <p><code>Python</code> <code>Statistics</code> <code>Data Analysis</code></p>
       <a href="https://github.com/Cosmic-Bubble/projetolavanderia">Repository</a> &nbsp;·&nbsp;
       <a href="https://projetolavanderia.onrender.com/">Website</a> &nbsp;·&nbsp;
       <a href="https://www.figma.com/design/0cPfF5D0pHMTzKGJX43wMW/Previs%C3%A3o-de-Demanda">Prototype</a>
@@ -84,14 +84,15 @@
   <tr>
     <td width="50%" valign="top">
       <sub><b>HRTECH · HACKATHON</b></sub>
-      <h3><a href="https://github.com/No-Country-simulation/S06-26-AB-Equipe-27">SkillFocus | App BiT</a></h3>
-      <p>MVP of an inclusive employability and diversity platform, built as a team at the Wongola / Black in Tech Hackathon.</p>
+      <h3>SkillFocus | App BiT</a></h3>
+      <p>MVP of an inclusive employment and diversity platform.</p>
       <p><code>PHP</code> <code>Laravel</code> <code>Python</code> <code>React</code> <code>FastAPI</code> <code>Gemini</code></p>
+      <a href="https://github.com/No-Country-simulation/S06-26-AB-Equipe-27">Repository</a> &nbsp;·&nbsp;
     </td>
     <td width="50%" valign="top">
       <sub><b>3RD PLACE · FATEC INNOVATION CHALLENGE</b></sub>
-      <h3><a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos">Focinho Amigo</a></h3>
-      <p>Management system and public website for the Focinho Amigo NGO.</p>
+      <h3>Focinho Amigo</a></h3>
+      <p>Management system and public-facing website for the Focinho Amigo animal protection NGO.</p>
       <p><code>TypeScript</code> <code>MySQL</code> <code>Supabase</code></p>
       <a href="https://github.com/nanda-marques/fic2026-fatec-sebrae-hackeridos">Repository</a> &nbsp;·&nbsp;
       <a href="https://fic2026-fatec-sebrae-hackeridos.vercel.app/">Website</a> &nbsp;·&nbsp;
@@ -100,7 +101,28 @@
   </tr>
 </table>
 
-<sub>More projects: <a href="https://github.com/nanda-marques/previsao-tempo-projeto">TempoCerto</a> &nbsp;·&nbsp; <a href="https://github.com/nanda-marques/nossasCores">Nossas Cores</a> &nbsp;·&nbsp; <a href="https://github.com/memoriaviva-org/website-memoria-viva">MemóriaViva</a></sub>
+<sub>More projects: <a href="https://github.com/nanda-marques/previsao-tempo-projeto">TempoCerto</a> &nbsp;·&nbsp; <a href="https://github.com/nanda-marques/nossasCores">Nossas Cores</a> &nbsp;·&nbsp; <a href="https://github.com/memoriaviva-org/website-memoria-viva">Memória Viva</a></sub>
+
+---
+
+<h2>Learning & Practice</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>PROFESSIONAL TRAINING · DIO / TOTVS</b></sub>
+      <h3><a href="https://github.com/nanda-marques/dio-totvs-engenharia-de-dados">Data Engineering & Machine Learning</a></h3>
+      <p>Repository containing exercises, challenges, and projects developed during a Data Engineering and Machine Learning training program, exploring concepts and tools in the field.</p>
+      <p><code>Python</code> <code>SQL</code> <code>Data Engineering</code> <code>Machine Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>ONGOING STUDIES · PYTHON</b></sub>
+      <h3><a href="https://github.com/nanda-marques/exercicios-python">Python Exercises</a></h3>
+      <p>Learning repository containing exercises, academic assignments, small projects, and study notes. Covers programming logic, data structures, object-oriented programming, and file handling.</p>
+      <p><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Streamlit</code> <code>OOP</code> <code>Data Structures</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,11 +130,11 @@
 
 **FATEC Sebrae**<br/>
 Technology in Data Science for Business<br/>
-<sub>2026–2028 &nbsp;·&nbsp; in progress</sub>
+<sub>2026–2028 &nbsp;·&nbsp; In Progress</sub>
 
 **ETEC Albert Einstein**<br/>
-Internet IT Technician<br/>
-<sub>2023–2025 &nbsp;·&nbsp; completed</sub>
+Technical Program in Internet Systems Development<br/>
+<sub>2023–2025 &nbsp;·&nbsp; Completed</sub>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCCCF5,50:7652B5,100:32105F&height=80&section=footer" width="100%" alt=""/>
